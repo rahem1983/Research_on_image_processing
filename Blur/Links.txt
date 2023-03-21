@@ -1,1 +1,5 @@
 basic image processing youtube : https://www.youtube.com/playlist?list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF
+
+gaussian blur theory : https://blog.en.uwa4d.com/2022/08/11/screen-post-processing-effects-chapter-1-basic-algorithm-of-gaussian-blur-and-its-implementation/#:~:text=The%20resulting%20image%20looks%20like,1)*(2%CF%89%2B1).
+
+motion blur descrive by StudioBinder : https://www.studiobinder.com/blog/what-is-motion-blur-definition/
