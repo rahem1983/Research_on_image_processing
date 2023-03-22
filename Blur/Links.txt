@@ -3,3 +3,7 @@ basic image processing youtube : https://www.youtube.com/playlist?list=PL3uLubnz
 gaussian blur theory : https://blog.en.uwa4d.com/2022/08/11/screen-post-processing-effects-chapter-1-basic-algorithm-of-gaussian-blur-and-its-implementation/#:~:text=The%20resulting%20image%20looks%20like,1)*(2%CF%89%2B1).
 
 motion blur descrive by StudioBinder : https://www.studiobinder.com/blog/what-is-motion-blur-definition/
+
+gaussian kernel size : https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html
+
+motion blur kernel size : https://www.geeksforgeeks.org/opencv-motion-blur-in-python/
